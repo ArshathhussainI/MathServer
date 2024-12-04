@@ -32,6 +32,7 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 html
 
 <html>
@@ -82,7 +83,7 @@ urlpatterns = [
 
 ## SERVER SIDE PROCESSING:
 ![385227437-f240508f-f16c-4c80-857a-b156d5e3258c](https://github.com/user-attachments/assets/9fa70195-032b-4479-80b7-c62a3f35bb68)
-
+```
 
 ## HOMEPAGE:
 ![385227579-e249b7d2-68fb-4e81-9a06-cc005a5a3617](https://github.com/user-attachments/assets/b0dbaa97-2f7f-445b-973b-3d3b8d749e36)
